@@ -1,0 +1,31 @@
+
+		<style>
+	body {
+		text-align:center;
+		color: #2E2E2E;
+		font-family: century gothic;
+		}
+	h1 {
+		font-size:100px;
+		color:#088A85;
+		}
+	p {
+		font-size:30px;
+		text-align:right;
+		}
+	body{
+			background:white
+		}
+	input{
+			padding:10px;
+		}
+	input [type="submit"]{
+			background-color:white;
+			font-family: century gothic;
+			color:##088A85;
+		}
+	img {
+		border-radius:100;
+		border:10px;
+	}
+	</style>
